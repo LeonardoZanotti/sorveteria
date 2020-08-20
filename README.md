@@ -1,7 +1,7 @@
 # Sorveteria
 Sistema de pedidos de sorveteria feito em shell script (é apenas um joguinho, mas achei legal c:)
 
-<img src="./logo.jpg" alt="Sorvete"/>
+<img src="https://i.pinimg.com/originals/f1/c1/cb/f1c1cb87dcb7e3c4884f7c21a6f21d13.jpg" alt="Sorvete"/>
 
 
 ## Rodando o script
