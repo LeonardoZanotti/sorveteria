@@ -8,13 +8,13 @@ Sistema de pedidos de sorveteria feito em shell script (é apenas um joguinho, m
 Abra o script com o editor de texto caso ache que isso possa ser um malware
 
 ```bash
-git clone https://github.com/LeonardoZanotti/sorveteria.git
+$ git clone https://github.com/LeonardoZanotti/sorveteria.git
 
-cd /sorveteria
+$ cd /sorveteria
 
-chmod +x sorveteria.sh
+$ chmod +x sorveteria.sh
 
-./sorveteria.sh
+$ ./sorveteria.sh
 ```
 
 ### Leonardo Zanotti
